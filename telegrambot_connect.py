@@ -3,7 +3,7 @@ from telebot import types
 import sqlite3
 from settings import *
 import time
-from app import *
+
 from datetime import datetime
 import psycopg2
 
